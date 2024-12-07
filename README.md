@@ -1,8 +1,10 @@
-# React + Vite
+Covid-19-Search-Engine-React Project: 
+Search Engine application built using React, Axios, JSON Server, HTML, CSS, Javascript 
+The website is fully responsive, ensuring optimal viewing across various devices. 
+The app allows to search requested data and integrates with an API for storing and retrieving.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Technologies : React, Axios, JSONServer, HTML, CSS, Javascript
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user-attachments/assets/631137d6-40f6-4707-be37-dd62382dd66c
+
